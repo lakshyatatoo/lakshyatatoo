@@ -1,13 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-MYRESUME LINK : https://drive.google.com/file/d/17MaK8XMVJ2iIvIhvbH6C3FQN7-o5oIId/view?usp=sharing
+**Resume:** [[Resume Link](https://drive.google.com/file/d/1wKvr3nz-WSr83ioYI9ChA8RLdIFLVmtl/view?usp=sharing)]
 
-👋 Hi, I’m @lakshyatatoo
+👋 Hi, I'm **Lakshya Tatoo**
 
-👀 I’m interested in data analytics and problem-solving
+💻 I'm a Computer Science student passionate about **Software Development, Data Structures & Algorithms, and Building Real-World Products**
 
-🌱 I’m currently learning DSA in C++ language
+🚀 Currently working on projects involving **Web Development, Productivity Tools, and Machine Learning Applications**
 
-💞️ I’m looking to collaborate on projects
+🌱 Currently learning and practicing **Data Structures & Algorithms in C++**, while exploring modern software engineering practices
 
-📫 How to reach me ... lakshyatatoo31@gmail.com
+🏆 Interested in **Problem Solving, Competitive Programming, Full-Stack Development, and AI/ML**
+
+🤝 Open to collaborating on innovative projects, hackathons, and open-source contributions
+
+📚 Always looking to learn new technologies and improve my engineering skills
+
+📫 Reach me at: **[lakshyatatoo31@gmail.com](mailto:lakshyatatoo31@gmail.com)**
