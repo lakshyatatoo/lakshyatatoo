@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**Resume:** [[Resume Link]([https://drive.google.com/file/d/1wKvr3nz-WSr83ioYI9ChA8RLdIFLVmtl/view?usp=sharing](https://drive.google.com/drive/u/1/my-drive))]
+**Resume:** [[Resume Link](https://drive.google.com/file/d/12NDqm115PlGtG7faa6iyemuExkrm2Pwe/view?usp=sharing)]
 
 👋 Hi, I'm **Lakshya Tatoo**
 
